@@ -12,4 +12,4 @@ jobs:
       with:
         python-version: '3.x'
     - name: Run greeting
-      run: python greeting.py
+      run: python provided_lab_files/Lab3/greeting.py
